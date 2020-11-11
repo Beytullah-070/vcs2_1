@@ -2,4 +2,4 @@ Pizza:
 - Deeg
 - Geraspte kaas
 - Salami
- 
+- Knoflooksaus
