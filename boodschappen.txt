@@ -2,6 +2,7 @@ Pizza:
 - Deeg
 - Geraspte kaas
 - Salami
+- Kaas
 - Knoflooksaus
 
 Ontbijt:
