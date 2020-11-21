@@ -9,3 +9,4 @@ Ontbijt:
 - Crackers
 - Juice drank
 - Kaas
+- Eieren
